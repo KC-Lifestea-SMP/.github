@@ -1,4 +1,24 @@
-## Hi there 👋
+# The KC Lifesteal SMP!
+### The [KC Lifesteal SMP](https://www.lifesteal.team) Is Owned By [KC Gaming 12](https://www.youtube.com/@KC_Gaming_12)
+## Navigation
+[General stuff](/#General-stuff) | [About Minecraft](/#About-Minecraft) | [Fun Fact](/#Fun-Fact) | [Contact](/#Contact)
+## General stuff
+What we do:
+- Web Development
+- App Development
+- Minecraft Development(Obviously)
+- General tech support if needed
+- etc.
+## About Minecraft
+Our Minecraft server Is joinable at play.lifesteal.team and its well.... A Lifesteal Server! Survival Multiplayer(SMP) 
+it's meant to be fun for everyone!
+## Fun Fact
+> The KC Lifesteal SMP started as a joke, Its not really that way anymore I guess....
+## Contact
+- Email: kcgaming@lifesteal.team
+- Discord: [KC Lifesteal SMP > Discord](https://discord.com/invite/kvaRcaXXCq)
+- Personal Discord: kcgaming12
+
 
 <!--
 
