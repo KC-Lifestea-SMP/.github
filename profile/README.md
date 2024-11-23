@@ -1,7 +1,7 @@
 # The KC Lifesteal SMP!
 ### The [KC Lifesteal SMP](https://www.lifesteal.team) Is Owned By [KC Gaming 12](https://www.youtube.com/@KC_Gaming_12)
 ## Navigation
-[General stuff](/#General-stuff) | [About Minecraft](/#About-Minecraft) | [Fun Fact](/#Fun-Fact) | [Contact](/#Contact)
+[General stuff](#General-stuff) | [About Minecraft](#About-Minecraft) | [Fun Fact](#Fun-Fact) | [Contact](#Contact)
 ## General stuff
 What we do:
 - Web Development
